@@ -5,6 +5,16 @@ name = "pypi"
 
 [packages]
 numpy = "*"
+ipykernel = "*"
+pandas = "*"
+matplotlib = "*"
+install = "*"
+seaborn = "*"
+sklearn = "*"
+torch = "*"
+pillow = "*"
+shap = "*"
+mne = "*"
 
 [dev-packages]
 ipykernel = "*"
